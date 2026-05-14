@@ -1,2 +1,1 @@
-# Game-Programming-Journey
-My First Repository
+First Repository
