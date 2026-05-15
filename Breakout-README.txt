@@ -7,6 +7,7 @@ A simple Breakout-style game made in Python using Turtle graphics.
 - Brick destruction
 - Score tracking
 - Ever increasing ball speed
+- A pause menu
 
 ## What I Learned
 - Collision detection
